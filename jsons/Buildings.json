@@ -20,7 +20,7 @@
 		"cost":600,
         "uniques":[
 			"Cannot be purchased",
-			"Provides [1] [Mysterious Artifact] <with [33]% chances>",
+			"Provides [1] [Mysterious Artifact] <with [33]% chance>",
 			"Unsellable"
         ]
     },
