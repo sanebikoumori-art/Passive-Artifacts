@@ -12,7 +12,7 @@
 	},
     //resource
     {
-        "name": "Blank Artifact",
+        "name": "Mysterious Artifact",
 		"resourceType":"Strategic",
 		"uniques":[
 			"Excluded from map editor"
