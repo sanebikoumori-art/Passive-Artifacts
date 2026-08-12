@@ -25,6 +25,204 @@
 			"Excluded from map editor"
 		]
 	},
+	//National uniques
+	//babylon
+	{
+		"name":"Ingenuity",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+            "Free [Great Scientist] appears <upon discovering [Writing] technology>",
+			"[Great Scientist] is earned [50]% faster",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Ingenuity (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+            "Free [Great Scientist] appears <upon discovering [Writing] technology>",
+			"[Great Scientist] is earned [100]% faster",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Greece
+	{
+		"name":"Hellenic League",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+            "[-50]% City-State Influence degradation",
+			"City-State Influence recovers at twice the normal rate",
+			"City-State territory always counts as friendly territory",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Hellenic League (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+            "[-100]% City-State Influence degradation",
+			"City-State Influence recovers at twice the normal rate",
+			"City-State territory always counts as friendly territory",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//China
+	{
+		"name":"Art of War",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+            "Great General provides double combat bonus",
+			"[Great General] is earned [50]% faster",
+			"[Great Admiral] is earned [50]% faster",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Art of War (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+            "Great General provides double combat bonus",
+			"[Great General] is earned [100]% faster",
+			"[Great Admiral] is earned [100]% faster",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Egypt
+	{
+		"name":"Monument Builders",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+20]% Production when constructing [All] wonders [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Monument Builders (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+50]% Production when constructing [All] wonders [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//England
+	{
+		"name":"Sun Never Sets",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+2] Movement <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Sun Never Sets (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+2] Movement <for [Water] units>","[+2] Sight <for [Water] units>", "Gain an extra spy <upon entering the [Renaissance era]>", "Gain an extra spy <upon entering the [Atomic era]>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//France
+	{
+		"name":"Ancien Régime",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+2 Culture] [in all cities] <before discovering [Steam Power]>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Ancien Régime (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+3 Culture] [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Russia
+	{
+		"name":"Siberian Riches",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+1 Production] from every [Strategic resource]","[+100]% [Horses] resource production",
+			"[+100]% [Iron] resource production","[+100]% [Uranium] resource production",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Siberian Riches (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+2 Production] from every [Strategic resource]",
+			"[+100]% [Strategic] resource production",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Rome
+	{
+		"name":"The Glory of Rome",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+25]% Production towards any buildings that already exist in the Capital",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"The Glory of Rome (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+50]% Production towards any buildings that already exist in the Capital",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//
     //British Tea
     {
         "name": "British Tea (Common)",
