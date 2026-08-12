@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Artifact Forge",
+        "requiredTech":"Bronze Working",
+		"requiredBuilding":"Workshop",
+		"cost":100,
+        "uniques":[
+			"War plant",
+			"Only available <before discovering [Rifling]>",
+			"Cannot be purchased",
+			"Cost increases by [50] when built",
+			"[-85]% weight to this choice for AI decisions <when number of [Ball Bullet] is more than [75]>",
+			"[+250]% weight to this choice for AI decisions <when number of [Ball Bullet] is less than [75]>",
+			"Provides [1] [Ball Bullet] <for every [2] [Production]>",
+			"Instantly provides [1] [Ball Bullet Produce] <for every [2] [Production]><hidden from users>",
+			"Unsellable",
+            "Remove [Expand Ball Bullet Workshop] [in this city]<hidden from users>"
+        ]
+    },
+    {
+        "name":"Artifact Excavation",
+        "requiredTech":"Archaeology",
+		"requiredBuilding":"Workshop",
+		"cost":100,
+        "uniques":[
+			"War plant",
+			"Only available <before discovering [Rifling]>",
+			"Cannot be purchased",
+			"Cost increases by [50] when built",
+			"[-85]% weight to this choice for AI decisions <when number of [Ball Bullet] is more than [75]>",
+			"[+250]% weight to this choice for AI decisions <when number of [Ball Bullet] is less than [75]>",
+			"Provides [1] [Ball Bullet] <for every [2] [Production]>",
+			"Instantly provides [1] [Ball Bullet Produce] <for every [2] [Production]><hidden from users>",
+			"Unsellable",
+            "Remove [Expand Ball Bullet Workshop] [in this city]<hidden from users>"
+        ]
+    },
+]
