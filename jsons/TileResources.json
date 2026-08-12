@@ -1,0 +1,197 @@
+[
+    //util
+    {
+        "name": "",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Excluded from map editor"
+		]
+	},
+    //resource
+    {
+        "name": "Blank Artifact",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Excluded from map editor"
+		]
+	},
+    {
+        "name": "Mithril",
+		"resourceType":"Strategic",
+		"uniques":[
+			"Excluded from map editor"
+		]
+	},
+    //
+    {
+        "name": "Blood and Iron (Common)",
+        //鉄と血
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[1] Unit Supply per city",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+			}
+		]
+	},
+    //Blood and Iron
+    {
+        "name": "Blood and Iron (Common)",
+        //鉄と血
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[1] Unit Supply per city",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+			}
+		]
+	},
+    {
+        "name": "Blood and Iron (Uncommon)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[2] Unit Supply per city",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+			}
+		]
+	},
+    {
+        "name": "Blood and Iron (Rare)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[4] Unit Supply per city",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+			}
+		]
+	},
+    {
+        "name": "Blood and Iron (Mythic)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[8] Unit Supply per city",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+			}
+		]
+	},
+    {
+        "name": "Blood and Iron (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[16] Unit Supply per city",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+			}
+		]
+	},
+    //Prussian Tradition
+    {
+        "name": "Prussian Tradition (Common)",
+        //プロイセンの伝統
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Prestige Type",
+            "[+3]% XP gained from combat <for [{Land} {Military}] units>",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "The Prussian General Staff educates officers as professionals and systematically studies warfare."
+                //プロイセン参謀本部は将校を専門職として教育し、戦争について体系的に研究する。
+			}
+		]
+	},
+    {
+        "name": "Prussian Tradition (Uncommon)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Prestige Type",
+            "[+5]% XP gained from combat <for [{Land} {Military}] units>",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "The Prussian General Staff educates officers as professionals and systematically studies warfare."
+			}
+		]
+	},
+    {
+        "name": "Prussian Tradition (Rare)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Prestige Type",
+            "[+10]% XP gained from combat <for [{Land} {Military}] units>",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "The Prussian General Staff educates officers as professionals and systematically studies warfare."
+			}
+		]
+	},
+    {
+        "name": "Prussian Tradition (Mythic)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Prestige Type",
+            "[+25]% XP gained from combat <for [{Land} {Military}] units>",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "The Prussian General Staff educates officers as professionals and systematically studies warfare."
+			}
+		]
+	},
+    {
+        "name": "Prussian Tradition (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Prestige Type",
+            "[+50]% XP gained from combat <for [{Land} {Military}] units>",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "The Prussian General Staff educates officers as professionals and systematically studies warfare."
+			}
+		]
+	}
+]
