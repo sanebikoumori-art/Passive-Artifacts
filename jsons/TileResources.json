@@ -222,7 +222,199 @@
 			"Excluded from map editor",
 		],
 	},
-	//
+	//Arabia
+	{
+		"name":"Trade Caravans",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+1 Gold] from each Trade Route", "[+100]% [Oil] resource production",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Trade Caravans (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+5 Gold] from each Trade Route", "[+150]% [Oil] resource production",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//America
+	{
+		"name":"Manifest Destiny",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+1] Sight <for [{Military} {Land}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Manifest Destiny (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+2] Sight <for [{Military}] units>", "[-50]% Gold cost of acquiring tiles [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Japan
+	{
+		"name":"Bushido",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"No damage penalty for wounded units <for [non-[Air]] units>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Bushido (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"No damage penalty for wounded units <for [Military] units>",
+			"Damage to garrison from nuclear attacks [-75]% [in all cities]",
+			"Population loss from nuclear attacks [-50]% [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//India
+	{
+		"name":"Population Growth",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+100]% unhappiness from the number of cities", "[-50]% Unhappiness from [Population] [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Population Growth (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+100]% unhappiness from the number of cities", "[-75]% Unhappiness from [Population] [in all cities]",
+			"[+50]% growth [in all cities]",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Germany
+	{
+		"name":"Furor Teutonicus",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
+			"[-25]% maintenance costs <for [Land] units>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Furor Teutonicus (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"When conquering an encampment, earn [50] Gold and recruit a Barbarian unit",
+			"[-50]% maintenance costs <for [Land] units>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//The Ottomans
+	{
+		"name":"Barbary Corsairs",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[-66]% maintenance costs <for [Water] units>",
+			"When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Barbary Corsairs (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[-90]% maintenance costs <for [Water] units>",
+			"When defeating a [{Barbarian} {Water}] unit, earn [50] Gold and recruit it <with [80]% chance>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Korea
+	{
+		"name":"Scholars of the Jade Hall",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+2 Science] from every specialist [in all cities]", "[+2 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"Scholars of the Jade Hall (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"[+3 Science] from every specialist [in all cities]", "[+4 Science] from every [Great Improvement]","Receive a tech boost when scientific buildings/wonders are built in capital",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	//Iroquois
+	{
+		"name":"The Great Warpath",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
+	{
+		"name":"The Great Warpath (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "National Type",
+			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
+			"[+25]% Strength <for [Land] units> <when fighting in [Forest] tiles>",
+			"[+25]% Strength <for [Land] units> <when fighting in [Jungle] tiles>",
+			"Cannot be traded",
+			"Excluded from map editor",
+		],
+	},
     //British Tea
     {
         "name": "British Tea (Common)",
