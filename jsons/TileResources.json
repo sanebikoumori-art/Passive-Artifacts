@@ -415,6 +415,446 @@
 			"Excluded from map editor",
 		],
 	},
+    {
+        "name": "Achaemenid Legacy",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Achaemenid Legacy (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+100]% Golden Age length",
+            "[+2] Movement <for [All] units> <during a Golden Age>",
+            "[+20]% Strength <for [All] units> <during a Golden Age>",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Wayfinding",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Wayfinding (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Enables embarkation for land units <starting from the [Ancient era]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
+            "[+2] Sight <for [Embarked] units>",
+            "[+15]% Strength <within [2] tiles of a [Moai]>",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Father Governs Children",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Father Governs Children (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+75]% [Food] from City-States",
+            "[+75]% [Culture] from City-States",
+            "[+75]% [Faith] from City-States",
+            "Military Units gifted from City-States start with [+20] XP",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Seven Cities of Gold",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Seven Cities of Gold (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+200 Gold] for discovering a Natural Wonder (bonus enhanced to [+1000 Gold] if first to discover it)",
+            "[+2 Happiness] for every known Natural Wonder",
+            "[+150]% Yield from every [Natural Wonder]",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "River Warlord",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "River Warlord (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Receive [+300]% Gold from Barbarian encampments and pillaging Cities",
+            "[+150]% Strength <when defending> <for [Embarked] units>",
+            "[{Military} {Land}] units gain the [Amphibious] promotion",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Mongol Terror",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Mongol Terror (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+50]% Strength <vs [City-States]>",
+            "[+2] Movement <for [Mounted] units>",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Sacrificial Captives",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Sacrificial Captives (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Earn [150]% of killed [Military] unit's [Strength] as [Culture]",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Great Andean Road",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Units ignore terrain costs when moving into any tile with Hills",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Great Andean Road (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Units ignore terrain costs when moving into any tile with Hills",
+            "[-75]% maintenance on road & railroads",
+            "No Maintenance costs for improvements in [Hill] tiles",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Viking Fury",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Viking Fury (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+2] Movement <for [Embarked] units>",
+            "[0] Movement point cost to disembark <for [All] units>",
+            "No movement cost to pillage <for [Melee] units>",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Scourge of God",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Scourge of God (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+2 Production] from every [Pasture]",
+            "Cities are razed [3] times as fast",
+            "Starts with [Animal Husbandry]",
+            "\"Borrows\" city names from other civilizations in the game",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Dutch East India Company",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Dutch East India Company (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Retain [75]% of the happiness from a luxury after the last copy has been traded away",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Nobel Prize",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Nobel Prize (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Gain [180] Influence with a [Great Person] gift to a City-State",
+            "When declaring friendship, both parties gain a [20]% boost to great person generation",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Diplomatic Marriage",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Diplomatic Marriage (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Can spend Gold to annex or puppet a City-State that has been your Ally for [3] turns",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Phoenician Heritage",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Phoenician Heritage (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Gain a free [Harbor] [in all coastal cities]",
+            "Land units may cross [Mountain] tiles after the first [Great General] is earned",
+            "Comment [Units ending their turn on [Mountain] tiles take [25] damage]",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Patriarchate of Constantinople",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Patriarchate of Constantinople (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "May choose [2] additional belief(s) of any type when [founding] a religion",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Druidic Lore",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Druidic Lore (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+2 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
+            "[+4 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Spirit of Adwa",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "Spirit of Adwa (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "[+30]% Strength <when fighting units from a Civilization with more Cities than you>",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "The Long Count",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
+
+    {
+        "name": "The Long Count (Legendary)",
+        "resourceType":"Luxury",
+        "uniques":[
+            "Artifact",
+            "National Type",
+            "Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+            "Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.",
+            "[+25]% Great Person generation",
+            "Cannot be traded",
+            "Excluded from map editor",
+        ],
+    },
     //British Tea
     {
         "name": "British Tea (Common)",
