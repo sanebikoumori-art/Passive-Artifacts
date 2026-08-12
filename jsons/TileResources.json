@@ -397,7 +397,6 @@
 		"uniques":[
             "Artifact",
             "National Type",
-			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"Cannot be traded",
 			"Excluded from map editor",
 		],
@@ -408,7 +407,6 @@
 		"uniques":[
             "Artifact",
             "National Type",
-			"All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
 			"[+25]% Strength <for [Land] units> <when fighting in [Forest] tiles>",
 			"[+25]% Strength <for [Land] units> <when fighting in [Jungle] tiles>",
 			"Cannot be traded",
@@ -602,7 +600,6 @@
             "uniques": [
                 "Artifact",
                 "National Type",
-                "Units ignore terrain costs when moving into any tile with Hills",
                 "[-50]% maintenance on road & railroads",
                 "No Maintenance costs for improvements in [Hill] tiles",
                 "Cannot be traded",
@@ -615,7 +612,6 @@
             "uniques": [
                 "Artifact",
                 "National Type",
-                "Units ignore terrain costs when moving into any tile with Hills",
                 "[-100]% maintenance on road & railroads",
                 "No Maintenance costs for improvements in [Hill] tiles",
                 "Cannot be traded",
