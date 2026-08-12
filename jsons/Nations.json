@@ -502,7 +502,7 @@
 
         "favoredReligion": "Christianity",
 		"uniqueName": "The Great Warpath",
-		"uniques": ["Provides [1] [The Great Warpath]"],
+		"uniques": ["Provides [1] [The Great Warpath]","All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel."],
 		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
@@ -748,7 +748,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Great Andean Road",
-		"uniques": ["Provides [1] [Great Andean Road]"],
+		"uniques": ["Provides [1] [Great Andean Road]","Units ignore terrain costs when moving into any tile with Hills",],
 		"cities": ["Cuzco","Tiwanaku","Machu","Ollantaytambo","Corihuayrachina","Huamanga","Rumicucho","Vilcabamba","Vitcos",
 			"Andahuaylas","Ica","Arequipa","Nasca","Atico","Juli","Chuito","Chuquiapo","Huanuco Pampa","Tamboccocha",
 			"Huaras","Riobamba","Caxamalca","Sausa","Tambo Colorado","Huaca","Tumbes","Chan Chan","Sipan","Pachacamac",
