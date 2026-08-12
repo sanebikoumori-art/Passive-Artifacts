@@ -1,10 +1,13 @@
 [
     //util
     {
-        "name": "",
+        "name": "Amount of Artifact Forge",
 		"resourceType":"Strategic",
 		"uniques":[
-			"Excluded from map editor"
+			"Stockpiled <hidden from users>",
+			"Excluded from map editor",
+			"Will not be displayed in Civilopedia",
+			"Not shown on world screen",
 		]
 	},
     //resource
@@ -22,20 +25,80 @@
 			"Excluded from map editor"
 		]
 	},
-    //
+    //British Tea
     {
-        "name": "Blood and Iron (Common)",
-        //鉄と血
+        "name": "British Tea (Common)",
+        //英国紅茶
 		"resourceType":"Luxury",
 		"uniques":[
             "Artifact",
             "Other Type",
-            "[1] Unit Supply per city",
+            "[+10]% Happiness from luxury resources gifted by City-States",
 			"Excluded from map editor",
 		],
         "civilopediaText": [
 			{
-				"text": "Prussia must concentrate its strength and hold it for the favourable moment, which has already come and gone several times. Since the treaties of Vienna, our frontiers have been ill-designed for a healthy body politic. Not through speeches and majority decisions will the great questions of the day be decided—that was the great mistake of 1848 and 1849—but by iron and blood"
+				"text": "Would you like some tea?"
+			}
+		]
+	},
+	{
+        "name": "British Tea (Uncommon)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[+20]% Happiness from luxury resources gifted by City-States",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Would you like some tea?"
+			}
+		]
+	},
+	{
+        "name": "British Tea (Rare)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[+50]% Happiness from luxury resources gifted by City-States",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Would you like some tea?"
+			}
+		]
+	},
+	{
+        "name": "British Tea (Mythic)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[+100]% Happiness from luxury resources gifted by City-States",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Would you like some tea?"
+			}
+		]
+	},
+	{
+        "name": "British Tea (Legendary)",
+		"resourceType":"Luxury",
+		"uniques":[
+            "Artifact",
+            "Other Type",
+            "[+150]% Happiness from luxury resources gifted by City-States",
+			"Excluded from map editor",
+		],
+        "civilopediaText": [
+			{
+				"text": "Would you like some tea?"
 			}
 		]
 	},
