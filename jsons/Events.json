@@ -1,0 +1,22 @@
+[
+    {
+        "name":"CreateArtifact",
+		"civilopediaText":[
+            {"text":"Pick the Artifact you gain.", "centered":true, "header":2,"color": "#FFFFFF"}
+        ],
+        "choices": [
+			{
+				"text": "British Tea",
+                "uniques": ["Provides [1] [British Tea (Common)]"]
+			},
+            {
+				"text": "Prussian Tradition",
+                "uniques": ["Provides [1] [Prussian Tradition (Common)]"]
+			},
+            {
+				"text": "Blood and Iron",
+                "uniques": ["Provides [1] [Blood and Iron (Common)]"]
+			}
+        ]
+    }
+]
