@@ -653,7 +653,7 @@
 		"innerColor": [90, 0, 10],
 		"favoredReligion": "Islam",
 		"uniqueName": "River Warlord",
-		"uniques": ["Provides [1] [River Warload]"],
+		"uniques": ["Provides [1] [River Warlord]"],
 		"cities": ["Gao","Tombouctu","Jenne","Taghaza","Tondibi","Kumbi Saleh","Kukia","Walata","Tegdaoust","Argungu","Gwandu",
 			"Kebbi","Boussa","Motpi","Bamako","Wa","Kayes","Awdaghost","Ouadane","Dakar","Tadmekket","Tekedda","Kano",
 			"Agadez","Niamey","Torodi","Ouatagouna","Dori","Bamba","Segou"],
@@ -995,7 +995,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Druidic Lore",
-		"uniques": ["Provides [1] [Druidic Love]"],
+		"uniques": ["Provides [1] [Druidic Lore]"],
 		"cities": ["Edinburgh","Dublin","Cardiff","Truro","Nantes","Douglas","Glasgow","Cork","Aberystwyth",
 			"Penzance","Rennes","Ramsey","Inverness","Limerick","Swansea","St. Ives","Brest","Peel","Aberdeen",
 			"Belfast","Caernarfon","Newquay","Saint-Nazaire","Castletown","Stirling","Galway","Conwy",
