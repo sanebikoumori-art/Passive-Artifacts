@@ -11,7 +11,7 @@
 			"Consumes [1] [Mysterious Artifact] <for [1000000] turns>",
 			"Instantly provides [1] [Amount of Artifact Forge] <hidden from users>",
 			"Unsellable",
-            "Remove [Expand Ball Bullet Workshop] [in this city]<hidden from users>"
+            "Remove [Artifact Forge] [in this city]<hidden from users>"
         ]
     },
     {
