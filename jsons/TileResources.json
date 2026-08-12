@@ -862,8 +862,7 @@
                 "Cannot be traded",
                 "Excluded from map editor"
             ]
-        }
-    ],
+	},
     //British Tea
     {
         "name": "British Tea (Common)",
