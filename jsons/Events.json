@@ -7,15 +7,15 @@
         "choices": [
 			{
 				"text": "British Tea",
-                "uniques": ["Provides [1] [British Tea (Common)]"]
+                "uniques": ["Provides [1] [British Tea (Common)] <for [100000] turns>"]
 			},
             {
 				"text": "Prussian Tradition",
-                "uniques": ["Provides [1] [Prussian Tradition (Common)]"]
+                "uniques": ["Provides [1] [Prussian Tradition (Common)] <for [100000] turns>"]
 			},
             {
 				"text": "Blood and Iron",
-                "uniques": ["Provides [1] [Blood and Iron (Common)]"]
+                "uniques": ["Provides [1] [Blood and Iron (Common)] <for [100000] turns>"]
 			}
         ]
     }
